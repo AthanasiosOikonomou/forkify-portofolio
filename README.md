@@ -16,7 +16,11 @@ Responsive design for various screen sizes.
 
 
 
-https://github.com/user-attachments/assets/b089f665-3f09-4895-b339-be2015011ab9
+
+https://github.com/user-attachments/assets/121ea2b9-768d-4b85-ae99-564911e08141
+
+
+
 
 
 
